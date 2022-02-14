@@ -1,0 +1,14 @@
+{
+  "name": "projet4",
+  "version": "1.0.0",
+  "description": "Projet 4 Openclassrooms Bac+3",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./sass/main.scss ./css/style.css"
+  },
+  "author": "Max Turon",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
